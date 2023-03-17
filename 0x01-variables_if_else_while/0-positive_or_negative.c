@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - main function
- * discriptopn: 'check foor number if it is positive or negative'
+ * discriptopn: 'check for number if it is positive or negative'
  * Return: always 0
  */
 int main(void)
