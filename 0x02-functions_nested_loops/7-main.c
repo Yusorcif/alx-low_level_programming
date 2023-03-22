@@ -3,6 +3,8 @@
 /**
  * main - check the code
  *
+ * print_last_digit: function that prints last digit
+ *
  * Return: Always 0.
  */
 int main(void)
