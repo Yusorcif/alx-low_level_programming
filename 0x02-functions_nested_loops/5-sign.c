@@ -14,6 +14,7 @@ int print_sign(int n)
 		_putchar('+');
 		_putchar(',');
 		_putchar(' ');
+		_putchar('\n');
 		return (1);
 	}
 	else if (n == 0)
@@ -21,6 +22,7 @@ int print_sign(int n)
 		_putchar('0');
 		_putchar(',');
 		_putchar(' ');
+		_putchar('\n');
 		return (0);
 	}
 	else
@@ -28,6 +30,7 @@ int print_sign(int n)
 		_putchar('-');
 		_putchar(',');
 		_putchar(' ');
+		_putchar('\n');
 		return (-1);
 	}
 }
