@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * void jack_bauer - function that prints minute of the day
+ * jack_bauer - function that prints 24hrs time
  *
  * Return: always 0
  */
