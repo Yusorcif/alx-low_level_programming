@@ -2,6 +2,8 @@
 /**
  * _islower - function to lower case
  *
+ * @c: function parameter
+ *
  * Return: 1 if it a lower case
  * and  0 otherwise
  */
