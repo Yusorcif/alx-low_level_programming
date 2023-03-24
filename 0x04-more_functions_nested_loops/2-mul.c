@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int mul - function that prints mul
+ * mul - function that prints multiplication
  *
  * @a: function parameter
  *
