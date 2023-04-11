@@ -35,12 +35,11 @@ char *str_concat(char *s1, char *s2)
 			s[k] = s1[k];
 		if  (k >= j)
 		{
-		
 			s[k] = s2[y];
 			j++;
 		}
 		k++;
 	}
 	s[k] = '\0';
-	return(s);
+	return (s);
 }
